@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Data/problema.csv
-Data/problema-ms-export-2020-05-25.docx
+Data/problema-ms-*.docx
